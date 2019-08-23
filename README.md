@@ -1,1 +1,1 @@
-# regresi-linear-berganda
+# Regresi Linear Berganda
